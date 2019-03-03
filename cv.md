@@ -24,6 +24,7 @@ Online courses Codeacademy, freeCodeCamp, Htmlacademy.
 **About me**
 
 I study at the Belarusian State University of Informatics and Radioelectronics, so I have knowledge in the IT and I am familiar with the basics of popular programming languages. I have experience abroad, thanks to the student program “work and travel”, during which I developed my communicative skills (in English), I became independent and stress-resistant. Now I have an intermediate level of English. Open to new knowledge, constantly studying materials about web development.
+
 I have basic knowledge of:
 * Java
 * JavaScrypt
