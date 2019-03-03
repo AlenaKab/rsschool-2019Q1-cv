@@ -1,11 +1,11 @@
-                               ## Curriculum Vitae
+## Curriculum Vitae
 
-                         ## Kabanchuk Alena Alexandrovna
-|### Personal information|
-----------------------------
-|**Date of birth:| 07/17/1998**|
-|**Address:| st. Aleksandrova 19/31, ag. Lesoy, Minsk district, Belarus.**|
-|**Phone:| +375336961200**|
+## Kabanchuk Alena Alexandrovna
+### Personal information
+
+|**Date of birth: **  |   07/17/1998|
+| **Address: | st. Aleksandrova 19/31, ag. Lesoy, Minsk district, Belarus.**|
+ | **Phone: |  +375336961200** |
 |**e-mail:| lena6961200@mail.ru**|
 |**Skype:| lena Kabanchuk**|
 
@@ -26,5 +26,6 @@ I have basic knowledge of:
 * JQuerry
 * html5/css
 * Git
+
 I lead an active lifestyle: I participate in student activities, dance, travel, constantly improve the level of English.
 
