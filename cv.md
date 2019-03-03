@@ -1,7 +1,6 @@
 #Curriculum Vitae
 
                          #Kabanchuk Alena Alexandrovna
-![Изображение ](file:///E:/поездка/DCIM/Camera/20180915_144540.jpg)
 ###Personal information
 ----------------------------
 **Date of birth:| 07/17/1998**
@@ -9,8 +8,8 @@
 **Phone:| +375336961200**
 **e-mail:| lena6961200@mail.ru**
 **Skype:| lena Kabanchuk**
-
-###Education
+-------------------------------
+**Education
  Belarusian State University of Informatics and Radioelectronics (BSUIR), 4th year.
 Faculty of Engineering and Economics.
 Specialty: economics of electronic business.
