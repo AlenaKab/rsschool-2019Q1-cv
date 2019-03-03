@@ -9,6 +9,12 @@
 |**e-mail:| lena6961200@mail.ru**|
 |**Skype:| lena Kabanchuk**|
 
+| Tables        | Are           |
+| ------------- |:-------------:|
+| **col 3 is **     | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
 **Education**
  Belarusian State University of Informatics and Radioelectronics (BSUIR), 4th year.
 Faculty of Engineering and Economics.
