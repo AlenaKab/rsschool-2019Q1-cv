@@ -3,17 +3,19 @@
 ## Kabanchuk Alena Alexandrovna
 ### Personal information
 
-| Date of birth:  |   07/17/1998 |
-| Address: | st. Aleksandrova 19/31, ag. Lesoy, Minsk district, Belarus. |
-| Phone: |  +375336961200 |
-| e-mail: | lena6961200@mail.ru |
-| Skype: | lena Kabanchuk |
+| Date of birth:    07/17/1998 |
+| Address: st. Aleksandrova 19/31, ag. Lesoy, Minsk district, Belarus. |
+| Phone:  +375336961200 |
+| e-mail: lena6961200@mail.ru |
+| Skype: lena Kabanchuk |
 
-| Tables       |
+| Personal information      |
 | -------------|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Date of birth:    07/17/1998      |
+| Address: st. Aleksandrova 19/31, ag. Lesoy, Minsk district, Belarus.      | 
+| Phone:  +375336961200 | 
+| e-mail: lena6961200@mail.ru  | 
+| Skype: lena Kabanchuk | 
 
 **Education**
  Belarusian State University of Informatics and Radioelectronics (BSUIR), 4th year.
