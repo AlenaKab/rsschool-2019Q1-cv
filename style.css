@@ -1,0 +1,81 @@
+section{
+    width: 1024px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+
+    border: 3px solid black;
+}
+h1,
+h2{
+    font-family: "Arial", "Helvetica",  sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: .5;
+
+    margin: 45px;
+
+    text-align: center;
+}
+h3{
+    font-family: "Arial", "Helvetica",  sans-serif;
+    font-size: 30px;
+
+    margin: 5px;
+
+    text-align: center;
+}
+table{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+
+    border-collapse: collapse;
+}
+.td1{
+    width: 25%;
+    margin: 0;
+    padding: 0;
+
+    text-align: center;
+}
+.td1 img{
+    width: 240px;
+    height: 340px;
+}
+.td2 li{
+    font-family: "Arial", "Helvetica",  sans-serif;
+    font-size: 25px;
+
+    padding: 10px;
+
+    list-style-type: none;
+
+    text-align: left;
+}
+.info h3{
+    font-family: "Arial", "Helvetica",  sans-serif;
+    font-size: 30px;
+    line-height: .5;
+
+    margin-top: 50px;
+
+    text-align: center;
+}
+.info p{
+    font-family: "Arial", "Helvetica",  sans-serif;
+    font-size: 25px;
+    line-height: 1.5;
+
+    text-align: justify;
+    text-indent: 1.5em; /* Отступ первой строки */
+}
+.info ul{
+    font-family: Alial;
+    font-size: 25px;
+
+    text-align: left;
+}
+.info li{
+    margin-left: 60px;
+}
